@@ -1,6 +1,6 @@
 # Project_1
 
-## Introduction ##
+## Introduction
 This Repository has analysis based on a financial product called "TERM DEPOSIT"
 Term deposits are a major source of income for a bank. A term deposit is a cash investment held at a financial institution. The money the customer invests is held for an agreed rate of interest over a fixed amount of time, or term. The bank uaes various outreach plans to sell term deposits to their customers such as email marketing, advertisements, telephonic marketing, and digital marketing.
 
@@ -8,7 +8,7 @@ Telephonic marketing campaigns still remain one of the most effective way to rea
 
 The data is related to the direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed by the customer or not. The data folder contains two datasets:-
 
-## Data File ##
+## Data File 
 train.csv: 45,211 rows and 18 columns ordered by date (from May 2008 to November 2010)
 test.csv: 4521 rows and 18 columns with 10% of the examples (4521), randomly selected from train.csv
 
@@ -40,7 +40,7 @@ bank client data:
 
 Missing Attribute Values: None
 
-## Citation ##
+## Citation 
 This dataset is publicly available for research. It has been picked up from the UCI Machine Learning with random sampling and a few additional columns.
 
 Please add this citation if you use this dataset for any further analysis.
@@ -48,12 +48,12 @@ Please add this citation if you use this dataset for any further analysis.
 S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
 
 
-## The repository includes:##
+## The repository includes
  Project proposal,
  The python code and 
  Powerpoint presentation 
 
-## Scope of the project:##
+## Scope of the project
 The basic scope of the project was to analyse the train.csv data and come onto the conclusion :
 
 # Research Questions To Answer
