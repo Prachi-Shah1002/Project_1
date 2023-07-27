@@ -164,10 +164,9 @@ As a conclusion, because majority of people don’t have a personal loan, most o
 ![Alt text](Images/YearlyBalance_Histogram_outcomeno.png)
 
 ## 11.Correlation Between Customers Purchasing a Term Deposite and Age
-![Alt text](Images/Correlation_Age.png)
 
 ## Analysis:
-For the Age  we found it had very few outliers 303. We have used age as a valid factor to judge if it has influence on the outcome. The r value between age and out come is 0.025. so we concluded that age did not have enough influence on the outcome.
+For the Age we found it had very few outliers 303. We have used age as a valid factor to judge if it has influence on the outcome. The r value between age and out come is 0.025. so we concluded that age did not have enough influence on the outcome.
 
 ## 12.Correlation Between Customers Purchasing a Term Deposite and Yearly_Balance
 ![Alt text](Images/Correlation_YearlyBalance.png)
