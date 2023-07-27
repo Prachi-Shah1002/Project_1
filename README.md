@@ -14,7 +14,7 @@ test.csv: 4521 rows and 18 columns with 10% of the examples (4521), randomly sel
 
 ## Detailed Data Descriptions
 
-bank client data:
+Bank client data:
 
 1 - age (numeric)
 2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
