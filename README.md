@@ -64,3 +64,126 @@ The basic scope of the project was to analyse the train.csv data and come onto t
 Considering various factors such as ( age, balance, education, housing_loan, personal_loan and marital_status), How does this factor affect term deposit?
 Which factors have Most influence and correlation with the answer?
 Is there a relationship between the education of the customer and the amount of money that they invest?
+
+
+# Result what we get for searching the Answers
+
+## 1. Outcome Based on Education Level
+
+![Alt text](Images/Outcomr_based_on_Education.png)
+
+## Analysis: 
+The chart shows that Education level does not have substantial effect on the term deposit purchase as the ratio of success to failure across all categories are almost the same.
+
+## 2. Scatter Plot to show Age distribuation for the Outcome
+
+![Alt text](Images/ScatterPlot_Agedistribuation_forOutcome.png)
+
+## Analysis:
+The chart shows that more people with low balance purchase the term deposit but at the same time more failure was recorded for them, therefore it can be concluded that the balance does not determined the outcome.
+
+## 3. Scatter Plot to show the Outcome based on the Yearly_Balance of Customers
+
+![Alt text](Images/ScatterPlot_Outcomebased_YearlyBalance.png)
+
+## Analysis:
+This chart shows the relationship between age and the outcome, it can also be concluded that there is no relationship between both except among the participant between the age of 60 to 90+ which shows a 50:50 ratio of success to failure.
+
+## 4. The correlation between Age and Balance
+
+![Alt text](Images/Age_vs_Balance.png)
+
+## Analysis:
+The chart shows the correlation between age and balance of participants that purchase the term deposit. It can be established that there is little or no correlation between the two factors.
+
+## 5. Analysis on Housing_Loan
+
+### Image1:
+![Alt text](Images/Hosuing_Loan.png)
+
+### Image2:
+![Alt text](Images/Hosuing_loan_1.png)
+
+### Image3:
+![Alt text](Images/Housing_loan_2.png)
+
+### Corrlation on Housing_Loan
+![Alt text](Images/Correlation_Houseing_loan.png)
+
+## Analysis:
+As a conclusion, there’s no clear relationship if having             
+a housing loan affects the purchase of the product but a great % people who did purchase it  does not have a housing loan
+
+## 6. Analysis on Personal_Loan
+
+### Image1:
+![Alt text](Images/Personal_Loan.png)
+
+### Image2:
+![Alt text](Images/Personal_Loan_1.png)
+
+### Image3:
+![Alt text](Images/Personal_Loan_2.png)
+
+### Corrlation on Housing_Loan
+![Alt text](Images/Correlation_Personal_Loan.png)
+
+## Analysis:
+As a conclusion, because majority of people don’t have a personal loan, most of the people who ended up purchasing the term deposit did not have a personal loan
+
+## 7. Box Plot and Histogram on Age by Outcome_Yes
+
+### Box_Plot
+![Alt text](Images/Boxplot_outcome_Yes.png)
+
+### Histogram
+![Alt text](Images/Histogram_outcome_Yes.png)
+
+## 8. Box Plot and Histogram on Age by Outcome_No
+
+### Box_Plot
+![Alt text](Images/Boxplot_outcome_No.png)
+
+### Histogram
+![Alt text](Images/Histogram_outcome_No.png)
+
+## 9. Box Plot and Histogram on Yearly_Balance by Outcome_Yes
+
+### Box_Plot
+![Alt text](Images/YearlyBalance_Boxplot_outcomeyes.png)
+
+### Histogram
+![Alt text](Images/YearlyBalance_Histogram_outcomeyes.png)
+
+## 10. Box Plot and Histogram on Yearly_Balance by Outcome_No
+
+### Box_Plot
+![Alt text](Images/YearlyBalance_Boxplot_outcomeno.png)
+
+### Histogram
+![Alt text](Images/YearlyBalance_Histogram_outcomeno.png)
+
+## 11.Correlation Between Customers Purchasing a Term Deposite and Age
+![Alt text](Images/Correlation_Age.png)
+
+## Analysis:
+For the Age  we found it had very few outliers 303. We have used age as a valid factor to judge if it has influence on the outcome. The r value between age and out come is 0.025. so we concluded that age did not have enough influence on the outcome.
+
+## 11.Correlation Between Customers Purchasing a Term Deposite and Yearly_Balance
+![Alt text](Images/Correlation_YearlyBalance.png)
+
+## Analysis:
+For the Yearly Balance we found it had very few outliers. We have used Yearly Balance as a valid factor to judge if it has influence on the outcome. The r value between Balance and out come is 0.051. so we concluded that Yearly Balance did not have enough influence on the outcome.
+
+# Overall Conclusion
+**1.** Considering various factors such as ( age, balance, education, housing_loan, personal_loan and marital_status), How does this factor affect term deposit?
+
+**Conclusion:** From the previous analysis we can conclude that all of the factors have low correlation with the outcome and we can also say the data is not enough to calculate the relation with each other. So none of the factor has strong effect for term deposit.    
+
+**2.** Which factors have Most influence and correlation with the resul?
+
+**Conclusion:**
+
+**3.** Is there a relationship between the education of the customer and the amount of money that they invest?
+
+**Conclusion:**
