@@ -204,8 +204,12 @@ the purchasing of term deposit and so we will accept the null hypothesis
 
 **2.** Which factors have Most influence and correlation with the resul?
 
-**Conclusion:**
+**Conclusion:** : From the current analysis we were able to determine that in term of demographic  factors not having an influence on the decision to select Term 
+deposit needs more to be backed up by more data The data related to the promotion of the and how the project was presented to the sample is also included in it. 
+The analysis related to how the Term deposit was presented Should be studied separately and with the relation to the demographics.
 
-**3.** Is there a relationship between the education of the customer and the amount of money that they invest?
 
-**Conclusion:**
+**3.** What is the relation between the education and  Success Term Deposit?
+
+**Conclusion:** There is no significant relation between the education and term deposit
+
