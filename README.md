@@ -164,7 +164,8 @@ As a conclusion, because majority of people don’t have a personal loan, most o
 ![Alt text](Images/YearlyBalance_Histogram_outcomeno.png)
 
 ## 11.Correlation Between Customers Purchasing a Term Deposite and Age
-![Alt_text](Images/Correlation_Age.png)
+![image](https://github.com/Prachi-Shah1002/Project_1/assets/135665923/452edbb3-f1b4-4dbb-a54f-08b8d14c872b)
+
 
 ## Analysis:
 For the Age we found it had very few outliers 303. We have used age as a valid factor to judge if it has influence on the outcome. The r value between age and out come is 0.025. so we concluded that age did not have enough influence on the outcome.
@@ -174,6 +175,27 @@ For the Age we found it had very few outliers 303. We have used age as a valid f
 
 ## Analysis:
 For the Yearly Balance we found it had very few outliers. We have used Yearly Balance as a valid factor to judge if it has influence on the outcome. The r value between Balance and out come is 0.051. so we concluded that Yearly Balance did not have enough influence on the outcome.
+
+## 13. Analysis using Chi-Square on Job and Outcome
+
+## Analysis:
+**1.** Null hypothesis = there is no correlation between types of job and the decision to select 
+term deposit Alternate hypothesis= there is some correlation between the type of Job and the decision to 
+select the term deposit
+
+**2.** On the basis of the chi square test of independence inn this case since p value>0.05 
+we can make an assumption that there isn't enough evidence supporting the hypothesis that jobs 
+have effect on the purchasing of term deposit and so we will accept the null hypothesis
+
+## 13. Analysis using Chi-Square on Marital_Status and Outcome
+
+## Analysis:
+**1.** Null hypothesis = there is no correlation between types of Marital_Status and the decision to select term deposit
+Alternate hypothesis= there is some correlation between the type of Marital_Status and thedescision to select the term deposit
+
+**2.** Using the chi square test of independence in this case since p value>0.05 we can make an assumption that 
+there isnt enough evidence supporting the hypothesis that Marital Status have effect on 
+the purchasing of term deposit and so we will accept the null hypothesis
 
 # Overall Conclusion
 **1.** Considering various factors such as ( age, balance, education, housing_loan, personal_loan and marital_status), How does this factor affect term deposit?
