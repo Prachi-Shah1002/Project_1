@@ -12,7 +12,8 @@ The data is related to the direct marketing campaigns of a Portuguese banking in
 train.csv: 45,211 rows and 18 columns ordered by date (from May 2008 to November 2010)
 test.csv: 4521 rows and 18 columns with 10% of the examples (4521), randomly selected from train.csv
 
-## Detailed Data Descriptions##
+## Detailed Data Descriptions
+
 bank client data:
 
 1 - age (numeric)
